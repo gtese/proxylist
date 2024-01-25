@@ -3,6 +3,27 @@ bing.com
 github.com
 openai.com
 sso.godaddy.com
+##Docker
+docker.com
+docker.io
+gcr.io
+quay.io
+pkg.dev
+cloudfront.net
+amazonaws.com
+akamai.net
+edgekey.net
+googleusercontent.com
+gstatic.com
+##Github Domains
+ghcr.io
+githubapp.com
+githubassets.com
+github.com
+github.community
+github.io
+githubnext.com
+githubusercontent.com
 ##Google Domains
 google.com
 google.ad
@@ -191,4 +212,13 @@ google.co.za
 google.co.zm
 google.co.zw
 google.cat
-
+##Youtube
+youtube.com
+ytimg.com
+youtube-nocookie.com
+youtu.be
+googlevideo.com
+gstatic.com
+ytimg.l.google.com
+googleapis.com
+googleusercontent.com
