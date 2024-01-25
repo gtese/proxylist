@@ -1,4 +1,5 @@
 bing.com
+github.com
 openai.com
 sso.godaddy.com
 
