@@ -1,8 +1,6 @@
 poe.com
-bing.com
-github.com
 openai.com
-sso.godaddy.com
+v2ex.com
 ##Bing
 bing.com
 bing.net
@@ -61,7 +59,6 @@ wpcurve.com
 1and1.com
 domainsbyproxy.com
 uk2.net
-host Europe.com
 123-reg.co.uk
 arvixe.com
 tsohost.com
