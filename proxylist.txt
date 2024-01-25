@@ -1,1 +1,4 @@
-google.com
+bing.com
+openai.com
+sso.godaddy.com
+
